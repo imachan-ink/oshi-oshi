@@ -142,13 +142,13 @@ h1{
     text-orientation: upright;
     font-size: 17px;
     line-height: 150%;
-    
-    
-    
-    
-
 
 }
+
+.nengou{
+	font-weight: bold;
+}
+
 .yajirusi{
     text-orientation: sideways;
 }
@@ -161,7 +161,6 @@ h1{
 	text-combine-upright: all;
 	line-height: 1;
 	vertical-align: baseline;
- 
     }
 
 .douga-link-husshi{
